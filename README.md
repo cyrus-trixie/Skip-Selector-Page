@@ -1,5 +1,5 @@
-WeWantWaste - Skip Selector Page
-This is my redesigned "Choose Your Skip Size" page for the WeWantWaste coding challenge. I made it look fresh and work great on all devices, keeping the code clean and easy to understand.
+ - Skip Selector Page
+This is my redesigned "Choose Your Skip Size" page for the RemWaste coding challenge. I made it look fresh and work great on all devices, keeping the code clean and easy to understand.
 Live Demo
 See it live here: https://sizeselectorpage.netlify.app/
 What's Inside
